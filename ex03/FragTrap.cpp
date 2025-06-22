@@ -45,7 +45,7 @@ void FragTrap::attack(const std::string& target) {
     }
 }
 
-// High Five method
+// Guard Gate method
 void FragTrap::highFivesGuys() {
     std::cout << "FragTrap " << this->name << " is requesting high fives from everyone! ✋" << std::endl;
 }
